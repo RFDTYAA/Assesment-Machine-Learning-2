@@ -54,9 +54,9 @@ Buka notebook eksplorasi-autoencoder.ipynb lalu jalankan semua sel secara beruru
 ├── eksploasi-autoencoder.ipynb
 ├── Laporan Tugas Individu - Eksplorasi Autoencoder.pdf
 ├── README.md
-
-👤 Author
-Muhammad Rafi Aditya
-442023611057
-Universitas Darussalam Gontor
 ```
+
+###👤 Author
+- Muhammad Rafi Aditya
+- 442023611057
+- Universitas Darussalam Gontor
