@@ -15,13 +15,14 @@ Dataset yang digunakan berupa 200 data ulasan film (100 positif, 100 negatif) da
 - Pandas
 
 ## 📂 Struktur Proyek
-
-klasifikasi-rnn/
+```bash
+\Assesment - Machine Learning 2\Week 05
 ├── klasifikasi-rnn.ipynb
 ├── README.md
 ├── Laporan Tugas Individu - Klasifikasi Teks Menggunakan RNN.pdf
+```
 
-👤 Author
-Muhammad Rafi Aditya
-442023611057
-Universitas Darussalam Gontor
+## 👤 Author
+- Muhammad Rafi Aditya
+- 442023611057
+- Universitas Darussalam Gontor
