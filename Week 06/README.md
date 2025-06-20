@@ -56,7 +56,7 @@ Buka notebook eksplorasi-autoencoder.ipynb lalu jalankan semua sel secara beruru
 ├── README.md
 ```
 
-##👤 Author
+👤 Author
 - Muhammad Rafi Aditya
 - 442023611057
 - Universitas Darussalam Gontor
